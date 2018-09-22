@@ -3,6 +3,8 @@
     <title>Jaidiber Heroku prueba</title>
 </head>
 <body>
-    <?php echo '<p>Hola mundo Jaidiber Heroku</p>'; ?>
+<a href="index.php?name">
+    <?php echo '<p>Hola mundo $name Heroku</p>'; ?>
+    
 </body>
 </html>
