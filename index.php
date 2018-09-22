@@ -5,7 +5,7 @@
 <body>
     
     <?php 
-    echo '<p>Hola mundo '.$_GET['name'].'Heroku</p>'; 
+    echo '<p>Hola mundo '.$_GET['name'].' Heroku</p>'; 
     ?>
     
 </body>
