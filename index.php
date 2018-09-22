@@ -1,8 +1,8 @@
 <html>
 <head>
-    <title>Jaidiber heroku prueba</title>
+    <title>Jaidiber Heroku prueba</title>
 </head>
 <body>
-    <?php echo '<pHola mundo Jaidiber heroku</p>'; ?>
+    <?php echo '<pHola mundo Jaidiber Heroku</p>'; ?>
 </body>
 </html>
